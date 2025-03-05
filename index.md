@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **bold**, _italic_, or ~~strikethrough~~. Mahammad Ayan yasinbhai malek. student no. 4399928
 
 [Link to another page](./another-page.html).
 
